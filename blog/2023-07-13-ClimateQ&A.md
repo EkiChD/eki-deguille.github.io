@@ -5,7 +5,6 @@ author: Natalia DE LA CALZADA
 author_title: Consultant
 author_url: mailto:inno@ekimetrics.com
 header_image_url: "img/blog/ClimateQA.jpg"
-# header_image_url: "img/blog/level_car_analytics.jpg"
 tags: [Climate, biodiversity, generative AI, genAI, IPCC, IPBES, OCR]
 draft: false
 description: "AI to make climate and biodiversity science more accessible"
@@ -30,7 +29,7 @@ keywords:
 
 <div align = "center">
 
-  ![screenshot-app ](img/ClimateQA/ClimateQA.png)
+  ![screenshot-app ](img/ClimateQA/ClimateQA.jpg)
 </div>
 
 
@@ -91,6 +90,11 @@ Another significant catalyst for information demand stems from the targeting of 
 
 In this context, it becomes paramount for climate scientists to multiply their communication endeavors and generate tailored content that caters to diverse audiences. By doing so, they would ensure that each segment of society has access to information that is relevant to their specific needs and concerns. This would enable users to not only access the desired information but also empower them to fact-check the information they come across. While the IPCC has made significant efforts to improve its communication strategy (e.g.; the organization held The Expert Meeting on Communication of 2016 which led to a number of recommendations to enhance IPCC communications activities, strategy and capacity), there are a number of limitations to this strategy stemming from how these organizations operate.
 
+</div>
+
+<div align = "center">
+
+![screenshot-app](img/ClimateQA/Screenshot_Twitter_ClimateQA.png)
 </div>
 
 
