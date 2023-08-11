@@ -80,6 +80,7 @@ Additionally, climate awareness is unequally distributed: in 2015, 40% of adults
 Driven by the global and far-reaching implications of climate change - across geographies, populations, sectors of activity, organizations- the demand for accurate, timely, and relevant climate information is increasing. Businesses and investors seek to understand their exposure to climate and biodiversity-related risks. Educators need to train a new generation of students, who will live with the consequences of climate change. Policymakers require reliable information for effective strategies. The media plays a vital role in disseminating factual information to the general public. As climate change shapes our world, this demand will continue to grow, requiring informed decision-making across sectors. 
 
 Another significant catalyst for information demand stems from the targeting of the IPCC by misinformation campaigns. The surge in media coverage surrounding climate change has witnessed a simultaneous surge in influential campaigns disseminating misinformation. These campaigns employ tactics such as selective media exposure, contrived controversies, alternative facts, and distorted media balance. Adding to this, social media algorithms amplify existing social circles and reinforce pre-existing opinions, while individuals increasingly rely on these platforms as their primary sources of information. Consequently, people find themselves trapped in echo chambers, unaware of the consensus or under the false impression that substantial uncertainty exists[^5]. Frequently, socio-economic narratives and a sense of loss resulting from climate change policies direct individuals toward disbelief and denial. These narratives create a clash between scientific communications on climate change and one's familiar ideas and way of life, often intertwined with automobiles, industry, consumption, and a carbon-centric economy. As climate skepticism is based on narratives that do not even revolve around climate itself[^6], climate science communications have often achieved limited success.
+</div>
 
 
 <div align = "center">
@@ -87,6 +88,7 @@ Another significant catalyst for information demand stems from the targeting of 
 ![screenshot-app](img/ClimateQA/Picture1.png)
 </div>
 
+<div align = "justify">
 
 In this context, it becomes paramount for climate scientists to multiply their communication endeavors and generate tailored content that caters to diverse audiences. By doing so, they would ensure that each segment of society has access to information that is relevant to their specific needs and concerns. This would enable users to not only access the desired information but also empower them to fact-check the information they come across. While the IPCC has made significant efforts to improve its communication strategy (e.g.; the organization held The Expert Meeting on Communication of 2016 which led to a number of recommendations to enhance IPCC communications activities, strategy and capacity), there are a number of limitations to this strategy stemming from how these organizations operate.
 
