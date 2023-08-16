@@ -129,7 +129,7 @@ function Home() {
   const {siteConfig = {}} = context;
   return (
     <Layout 
-      title={`EkiLab - the Ekimetrics technology & innovation website`} 
+      title={`Eki.Charles - the Ekimetrics technology & innovation website`} 
       description="EkiLab - the Ekimetrics technology & innovation website. Behind the scenes of the Data Science Company" 
       keywords={["EkiLab","Ekimetrics","Eki.Lab","Data Science","Machine Learning","Artificial Intelligence"]}
       >
@@ -138,7 +138,7 @@ function Home() {
         style={{backgroundImage:`url(${useBaseUrl('img/10-cubecube03.jpg')})`,backgroundSize:"cover",backgroundPosition: "bottom", minHeight:"calc(100vh - 200px)",zIndex:-1}}
       >
         <div className={clsx("container", styles.card)}>
-          <h1 className="hero__subtitle" style={{color:"white",fontSize:"40px"}}>Eki<span className="gold">.</span>Lab</h1>
+          <h1 className="hero__subtitle" style={{color:"white",fontSize:"40px"}}>Eki<span className="gold">.</span>Charles</h1>
           <h1 className="hero__subtitle" style={{color:"white"}}>Welcome to Ekimetrics' technology & innovation website!</h1>
           <p className="hero__subtitle" style={{color:"white", marginBottom: 0}}>Behind the scenes of <a href="https://ekimetrics.com">the Data Science Company</a></p>
         </div>
